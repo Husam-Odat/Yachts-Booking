@@ -1,6 +1,8 @@
 # Yachts-Booking
 React project
 
+https://main.dr5ya9owvjwr7.amplifyapp.com/home
+
 
 Bookandine_React_Projecte
 Welcome to Bookandine, your go-to platform for effortless restaurant reservations. We simplify dining through our seamless React.js-based web app, offering a dynamic single-page experience. Utilizing custom APIs, we provide real-time restaurant information, ensuring uninterrupted browsing. Join us in redefining dining, where discovering, booking, and relishing culinary adventures are just a click away.
